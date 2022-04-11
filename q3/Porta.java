@@ -12,5 +12,4 @@ public class Porta {
             System.out.println("Está fechada! \n");
         }
     }
-    
 }
